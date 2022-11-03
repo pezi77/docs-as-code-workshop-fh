@@ -1,4 +1,3 @@
-.. include:: ../README.rst
 
 Welcome to the docs-as-code workshop docs
 =========================================
