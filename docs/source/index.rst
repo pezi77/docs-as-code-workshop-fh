@@ -26,6 +26,9 @@ Here are some useful links on how to write reStructured Text:
 * https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/
 
 
+Basic formatting
+----------------
+
 Here are the basic formatting options:
 
 Chapter 1 Title
