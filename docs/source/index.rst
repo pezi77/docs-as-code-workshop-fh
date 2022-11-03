@@ -4,7 +4,7 @@ Welcome to the docs-as-code workshop docs
 
 .. note::
 
-   This is where we will write our docs today
+   This is the main page of our docs
 
 Contents
 --------
@@ -13,7 +13,7 @@ Contents
 
    Home <self>
    intro
-   general
+   
 
 Links
 -----
@@ -64,6 +64,7 @@ backquotes: ``text`` for code samples.
 
 Lists and Quote-like blocks
 ===========================
+
 List markup (ref) is natural: just place an asterisk at the start of a paragraph and indent properly. The same goes for numbered lists; they can also be autonumbered using a # sign:
 
 * This is a bulleted list.
