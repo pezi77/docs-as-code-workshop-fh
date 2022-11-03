@@ -1,8 +1,23 @@
-Welcome to the docs-as-code workshop docs
+.. include:: ../README.rst
 
----
-This is where we will write our docs today
----
+Welcome to the docs-as-code workshop docs
+=========================================
+
+.. note::
+
+   This is where we will write our docs today
+
+Contents
+--------
+
+.. toctree::
+
+   Home <self>
+   intro
+   general
+
+Links
+-----
 
 Here are some useful links on how to write reStructured Text:
 
